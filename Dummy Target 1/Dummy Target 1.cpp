@@ -30,7 +30,7 @@ int main()
 
 		cout << "Press ENTER to print again." << endl;
 		getchar();
-		cout << "-----------------------------------" << endl;
+		cout << "-----------------------------------" << endl << endl;
 	}
 
 	return 0;
