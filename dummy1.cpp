@@ -5,7 +5,7 @@ using namespace std;
 int main() 
 {
   int varInt = 123456;
-  string varString = "DefaultString";
+  char[] varString = "DefaultString";
   char arrChar[128] = "Long char array right there ->";
   int * ptr2int;
   ptr2int = &varInt;
