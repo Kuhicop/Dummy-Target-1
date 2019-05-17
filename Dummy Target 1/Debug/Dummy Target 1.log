@@ -1,2 +1,0 @@
-﻿  Dummy Target 1.cpp
-c:\users\kuhi\source\repos\dummy target 1\dummy target 1\dummy target 1.cpp(26): error C4700: se utilizó la variable local 'ptr2ptr2' sin inicializar
