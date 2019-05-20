@@ -1,10 +1,13 @@
 #include "pch.h"
 #include <iostream>
 #include <Windows.h>
+#include <string.h>
 using namespace std;
 
 int main()
 {
+	const wchar_t str[] = (L"Dummy Target 1.exe");
+	SetConsoleTitle(str);
 	int varInt = 123456;
 	char varString[] = "DefaultString";
 	char arrChar[128] = "Long char array right there ->";
